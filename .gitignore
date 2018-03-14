@@ -29,3 +29,6 @@ nb-configuration.xml
 
 # MacOS junk
 .DS_Store
+
+# Ignore JavaFX build
+build.fxbuild
